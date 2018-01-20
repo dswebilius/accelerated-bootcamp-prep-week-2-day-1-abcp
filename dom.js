@@ -1,3 +1,4 @@
+document [children]
 var document = [
   {
     tagName: "div",
